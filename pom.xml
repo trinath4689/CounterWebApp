@@ -6,7 +6,7 @@
 	<artifactId>Charan</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>CounterWebApp Maven Webapp</name>
+	<name>Charan Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<jdk.version>1.7</jdk.version>
@@ -74,7 +74,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>CounterWebApp</finalName>
+		<finalName>Charan</finalName>
 
 		<plugins>
 		    <!-- Eclipse project -->
@@ -108,7 +108,7 @@
 				<artifactId>tomcat7-maven-plugin</artifactId>
 				<version>2.2</version>
 				<configuration>
-					<path>/CounterWebApp</path>
+					<path>/Charan</path>
 				</configuration>
 			</plugin>
 
