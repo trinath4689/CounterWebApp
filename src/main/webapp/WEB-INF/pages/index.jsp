@@ -14,7 +14,7 @@
 <!--<h1>Maven + Spring MVC Web Project Example</h1> -->
 <br>
 <br> 
-<h3 align="center" style="color:green;">Message : ${message}</h3>
+<h3 align="center" style="color:green;">Message : ${message}.!</h3>
 <br>
 <br>
 <h3 align="center" style="color:blue;">No. of Hits : ${counter}</h3>	
