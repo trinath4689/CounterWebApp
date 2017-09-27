@@ -1,28 +1,22 @@
 <html>
-<body>
 <style>
-div.box {
-    background-color: none;
-    background-image: url("back.jpg");
+   body { background-color: #f0ff93;
     background-repeat: no-repeat;
     background-position: center, center;
-    color: black;
-    margin: 20px 0 20px 0;
-    padding: 20px;
+      }
 </style>
+<body>
 <br>
 <br>
 <br>
 <br>
-<div class='box'>
-<h1 align="center">Charan's Test Application..!</h1>
+<h1 align="center" style="color:red;">Charan's Test Application..!</h1>
 <!--<h1>Maven + Spring MVC Web Project Example</h1> -->
 <br>
 <br> 
-<h3 align="center">Message : ${message}</h3>
+<h3 align="center" style="color:green;">Message : ${message}</h3>
 <br>
 <br>
-<h3 align="center">No. of Hits : ${counter}</h3>
-</div>	
+<h3 align="center" style="color:blue;">No. of Hits : ${counter}</h3>	
 </body>
 </html>
