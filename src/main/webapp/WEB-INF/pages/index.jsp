@@ -1,6 +1,6 @@
 <html>
 <style>
-   body { background-color: #f0ff93;
+   body { background-color: #ffa3c4;
     background-repeat: no-repeat;
     background-position: center, center;
       }
