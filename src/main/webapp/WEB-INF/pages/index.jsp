@@ -1,8 +1,19 @@
 <html>
 <style>
-   body { background-color: #ffa3c4;
+   body { 
+    background-color: #ffa3c4;
     background-repeat: no-repeat;
     background-position: center, center;
+        }
+   div.box {
+    width: 500px;
+    border: 3px solid black;
+    background-color: #97c1fc;
+    background-repeat: no-repeat;
+    background-position: center, center;
+    padding: 30px;
+    margin-left: 350px;
+    margin-right:350px;
       }
 </style>
 <body>
@@ -10,13 +21,14 @@
 <br>
 <br>
 <br>
-<h1 align="center" style="color:red;">Charan's Test Application..!</h1>
+<br>
+<div class='box'>
+<h1 align="center" style="color:#a3086f;">CHARAN Test Application..!</h1>
 <!--<h1>Maven + Spring MVC Web Project Example</h1> -->
-<br>
 <br> 
-<h3 align="center" style="color:green;">Message : ${message}.!</h3>
+<h2 align="center" style="color:green;border: 2px solid black;">Message : ${message}.!</h2>
 <br>
-<br>
-<h3 align="center" style="color:blue;">No. of Hits : ${counter}</h3>	
+<h2 align="center" style="color:blue; border: 2px solid black;">No. of Hits : ${counter}</h2>	
+</div>
 </body>
 </html>
