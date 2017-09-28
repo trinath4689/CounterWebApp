@@ -15,6 +15,7 @@
     padding: 30px;
     margin-left: 350px;
     margin-right:350px;
+    text-shadow: 1px 1px #000000;
       }
 </style>
 <body>
