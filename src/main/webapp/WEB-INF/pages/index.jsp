@@ -1,5 +1,5 @@
 <html>
-<title> Charan Sample App </title>
+<title> Kinnera Sample App </title>
 <style>
    body { 
     background-color: #ffa3c4;
